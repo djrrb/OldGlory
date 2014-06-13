@@ -3,7 +3,7 @@ OldGlory
 
 Using <a href="http://drawbot.readthedocs.org">Drawbot</a> to draw the American flag. 
 
-But it's also responsive! I made it to experiment with Drawbot Variables.
+It's also responsive! I made this to experiment with Drawbot Variables.
 
 <img src="oldGlory_example.png" style="max-width: 600px" />
 

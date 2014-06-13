@@ -2,7 +2,9 @@
 OLD GLORY
 By David Jonathan Ross <http://www.djr.com>
 
-This drawbot script will draw the American Flag. But it's also responsive! I made it to experiment with Drawbot Variables. 
+This drawbot script will draw the American Flag. 
+
+It's also responsive! I made this to experiment with Drawbot Variables. 
 
 For the most part, it follows the rules here:    
     http://en.wikipedia.org/wiki/Flag_of_the_United_States#Specifications
